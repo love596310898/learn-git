@@ -1,3 +1,6 @@
 add content
 twice edit
-master edit
+master edit1
+
+reset branch for origin/master
+edit master branch
